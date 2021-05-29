@@ -1,2 +1,0 @@
--- Prática 02 de Haskell
--- Nome: 
